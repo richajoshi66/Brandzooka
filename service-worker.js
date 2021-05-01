@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Brandzooka/precache-manifest.5915c56ef4ddd8fb432d1fd5ffd120a9.js"
+  "/Brandzooka/precache-manifest.7ff67d875db6ec73152d3fe1589ca8b3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08db3f090a06295082bb341c74c299a3",
+    "revision": "1bfd03451b20c245faef44e6e402d310",
     "url": "/Brandzooka/index.html"
   },
   {
